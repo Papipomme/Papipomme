@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @LunariaMC
-- 🌱 I’m currently learning Full Stack Web Technologies
-- 📫 Discord: Papipomme#1708
-- ⚡ My tools: HTML, CSS, PHP, JavaScript, MongoDB, MariaDB, Redis, RabbitMQ, Java.
+learning go and rust so I can code real things.
+
+doin java since 2020, php too. ok knowledge of python & computer science (architectures, binary...).
+familiar with mysql, mongodb, redis & rabbitmq.
+
+love nuxt.js
