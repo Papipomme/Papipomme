@@ -1,8 +1,8 @@
-### Hi there 👋
+### papipomme
 
-learning go and rust so I can code real things.
+repos are private, (almost) everything is discontinued.
 
-doin java since 2020, php too. ok knowledge of python & computer science (architectures, binary...).
-familiar with mysql, mongodb, redis & rabbitmq.
+languages & tools: java, php, python, redis, mongodb, mariadb, rabbitmq, git, debian (+ubuntu)
+learning: go
 
-love nuxt.js
+math and computation enjoyer
